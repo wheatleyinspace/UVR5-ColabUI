@@ -1909,4 +1909,4 @@ with gr.Blocks(theme = loadThemes.load_json() or "NoCrypt/miku", title = "🎵 U
             )
 
 app.queue()
-app.launch()
+app.launch(share=True)
