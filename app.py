@@ -174,8 +174,6 @@ mdxnet_models = [
     'kuielab_b_other.onnx',
     'kuielab_b_bass.onnx',
     'kuielab_b_drums.onnx',
-    'Bandit Plus: Cinematic Bandit Plus | (by kwatcharasupat)' : 'model_bandit_plus_dnr_sdr_11.47.ckpt',
-    'Bandit v2: Cinematic Bandit v2 Multilang | (by kwatcharasupat)' : 'checkpoint-multi_fixed.ckpt'
 ]
 
 #========================#
