@@ -117,7 +117,9 @@ roformer_models = {
     'BS Roformer | Male-Female by aufr33' : 'bs_roformer_male_female_by_aufr33_sdr_7.2889.ckpt',
     'MelBand Roformer | Aspiration by Sucial' : 'aspiration_mel_band_roformer_sdr_18.9845.ckpt',
     'MelBand Roformer | Aspiration Less Aggressive by Sucial' : 'aspiration_mel_band_roformer_less_aggr_sdr_18.1201.ckpt',
-    'MelBand Roformer | Bleed Suppressor V1 by unwa-97chris' : 'mel_band_roformer_bleed_suppressor_v1.ckpt'
+    'MelBand Roformer | Bleed Suppressor V1 by unwa-97chris' : 'mel_band_roformer_bleed_suppressor_v1.ckpt',
+    'Bandit Plus: Cinematic Bandit Plus | (by kwatcharasupat)' : 'model_bandit_plus_dnr_sdr_11.47.ckpt',
+    'Bandit v2: Cinematic Bandit v2 Multilang | (by kwatcharasupat)' : 'checkpoint-multi_fixed.ckpt'
 }
 
 #=========================#
