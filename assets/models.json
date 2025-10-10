@@ -512,11 +512,11 @@
     "MGM_MAIN_v4.pth": [
         "https://github.com/nomadkaraoke/python-audio-separator/releases/download/model-configs/MGM_MAIN_v4.pth"
     ],
-    "BANDIT_V2": [
+    "Bandit_v2": [
       "https://huggingface.co/Politrees/UVR_resources/resolve/main/models/Bandit/Bandit_v2/checkpoint-multi_fixed.ckpt",
       "https://huggingface.co/Politrees/UVR_resources/resolve/main/models/Bandit/Bandit_v2/config_dnr_bandit_v2_mus64.yaml"
     ],
-    "BANDIT_PLUS": [
+    "Bandit_Plus": [
       "https://huggingface.co/Politrees/UVR_resources/resolve/main/models/Bandit/Bandit_Plus/model_bandit_plus_dnr_sdr_11.47.ckpt",
       "https://huggingface.co/Politrees/UVR_resources/resolve/main/models/Bandit/Bandit_Plus/config_dnr_bandit_bsrnn_multi_mus64.yaml"
     ]
