@@ -2,3 +2,4 @@ audio-separator[gpu]==0.35.2
 yt_dlp
 pypresence
 spaces
+protobuf>=6.33.6
