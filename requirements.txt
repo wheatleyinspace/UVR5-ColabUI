@@ -3,3 +3,4 @@ yt_dlp
 pypresence
 spaces
 protobuf>=6.33.6
+onnxruntime-gpu==1.20.1
