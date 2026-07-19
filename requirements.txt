@@ -4,3 +4,4 @@ pypresence
 spaces
 protobuf>=6.33.6
 onnxruntime-gpu==1.20.1
+gradio<5.0.0
